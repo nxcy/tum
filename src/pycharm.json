@@ -1,0 +1,10 @@
+{
+    "url": "https://download.jetbrains.com/python/pycharm-community-2024.1.1.tar.gz",
+    "hash": "715f30966c5597adc6ef544051a796de8a6cc5a5182938b8e14a1e6ad5e5edfd",
+    "entry": "pycharm-community-2024.1.1/bin/pycharm.sh",
+    "pkgs": [
+        "freetype",
+        "libXtst",
+        "libsecret"
+    ]
+}
